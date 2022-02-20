@@ -23,6 +23,9 @@
 0.0.0.0 www.tiktok.com
 0.0.0.0 xlog-va.byteoversea.com
 
+# Chrome DNS over https
+0.0.0.0 chrome.cloudflare-dns.com
+
 # Google ads and related
 0.0.0.0 adservice.google.co.in
 0.0.0.0 adservice.google.com.vn
